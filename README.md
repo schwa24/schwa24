@@ -1,4 +1,6 @@
-### Hi there 👋
+She/Her Mech Eng student working on an open source ECU/PCM software based in C#
+dont have alot of time right now though between school and Formula SAE though
+shoot me a message if you want to collab sometime
 
 <!--
 **schwa24/schwa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
